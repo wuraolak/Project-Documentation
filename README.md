@@ -38,7 +38,7 @@ This report comprises 3 pages
    2. For Analysis
 
 
- 3. For Visualization
+- For Visualization
 
 - GitHub for Portfolio Building
 ----
